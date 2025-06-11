@@ -1,3 +1,3 @@
-Expect migration to java 20
-Use Jakarta MVC for http methods handling 
-Add or update pom.xml with all required dependencies
+expect migration to java 20,
+use Jakarta MVC for HTTP methods handling,
+add or update pom.xml with all required dependencies
